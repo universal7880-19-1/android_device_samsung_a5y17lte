@@ -25,4 +25,4 @@ TARGET_SPECIFIC_HEADER_PATH += $(LOCAL_PATH)/include
 TARGET_KERNEL_CONFIG := lineage-universal7880_defconfig
 
 # OTA
-TARGET_OTA_ASSERT_DEVICE := a5y17lte,a5y17ltecan,a5y17ltexx
+TARGET_OTA_ASSERT_DEVICE := a5y17lte,a5y17ltecan,a5y17ltexx,a7y17lte,a7y17ltexx
